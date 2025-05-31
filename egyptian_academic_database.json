@@ -1,0 +1,118 @@
+{
+  "historical_sources": {
+    "primary_references": [
+      "Budge, E. A. Wallis. (1904). The Gods of the Egyptians: Or, Studies in Egyptian Mythology.",
+      "Hart, George. (2005). The Routledge Dictionary of Egyptian Gods and Goddesses."
+    ],
+    "major_textual_sources_ancient": [
+      "Pyramid Texts (Old Kingdom)",
+      "Coffin Texts (Middle Kingdom)",
+      "Book of the Dead (New Kingdom and later)"
+    ],
+    "museum_collections": [
+      "The Egyptian Museum, Cairo (Grand Egyptian Museum - GEM)",
+      "The British Museum - Ancient Egypt Collection"
+    ]
+  },
+  "deity_archetypes": {
+    "ra_horakhty": {
+      "epithets": [
+        "Sun God",
+        "King of the Gods (during certain periods)"
+      ],
+      "domains": [
+        "Sun",
+        "Creation",
+        "Kingship"
+      ],
+      "historical_description": "Ra (or Re) is one of the most ancient and significant deities, primarily associated with the midday sun.",
+      "iconography": {
+        "form": "Man with a falcon head, or a falcon.",
+        "headdress": "Sun disk encircled by a cobra (uraeus).",
+        "symbols": [
+          "Sun disk",
+          "Uraeus",
+          "Was-scepter",
+          "Ankh"
+        ]
+      },
+      "major_cult_centers": [
+        "Heliopolis (Iunu)"
+      ]
+    },
+    "isis": {
+      "epithets": [
+        "Great Mother",
+        "Mistress of Magic"
+      ],
+      "domains": [
+        "Motherhood",
+        "Magic",
+        "Healing"
+      ],
+      "historical_description": "Isis (Aset) is a powerful goddess, revered for her magical abilities.",
+      "iconography": {
+        "form": "Woman.",
+        "headdress": [
+          "Throne hieroglyph (her name)",
+          "Sun disk between cow horns"
+        ],
+        "symbols": [
+          "Tyet (Isis knot)",
+          "Sistrum"
+        ]
+      },
+      "major_cult_centers": [
+        "Philae"
+      ]
+    }
+  },
+  "pharaonic_archetypes": {
+    "pharaoh_new_kingdom_warrior": {
+      "historical_description": "Pharaohs of the New Kingdom often depicted as conquerors.",
+      "regalia": {
+        "crowns": [
+          "Khepresh (Blue Crown)",
+          "Nemes headdress"
+        ]
+      }
+    }
+  },
+  "commoner_archetypes": {
+    "scribe": {
+      "historical_description": "Literate officials responsible for administration."
+    }
+  },
+  "artistic_conventions": {
+    "perspective_representation": {
+      "description": "Composite perspective (frontal torso, profile head and limbs)."
+    },
+    "color_symbolism": {
+      "blue_green": "Water, sky, life, fertility, rebirth."
+    }
+  },
+  "architectural_elements": {
+    "temples": [
+      "Pylons",
+      "Hypostyle halls"
+    ],
+    "tombs": [
+      "Mastabas",
+      "Pyramids"
+    ]
+  },
+  "funerary_practices": {
+    "mummification": "Process of preserving the body.",
+    "canopic_jars": "Containers for embalmed organs."
+  },
+  "technical_specifications": {
+    "artistic_quality_markers": [
+      "museum-quality ancient Egyptian art",
+      "stylized Egyptian canon of proportion",
+      "hieroglyphic inscriptions in background",
+      "vibrant mineral pigments",
+      "New Kingdom Amarna period style"
+    ]
+  },
+  "digitized_book_contents": {}
+}
